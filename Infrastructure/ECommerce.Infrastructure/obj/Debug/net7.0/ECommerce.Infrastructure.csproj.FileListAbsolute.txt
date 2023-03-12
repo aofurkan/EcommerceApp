@@ -1,0 +1,17 @@
+/Users/aofurkan/Projects/ECommerceAPI/Infrastructure/ECommerce.Infrastructure/bin/Debug/net7.0/ECommerce.Infrastructure.deps.json
+/Users/aofurkan/Projects/ECommerceAPI/Infrastructure/ECommerce.Infrastructure/bin/Debug/net7.0/ECommerce.Infrastructure.dll
+/Users/aofurkan/Projects/ECommerceAPI/Infrastructure/ECommerce.Infrastructure/bin/Debug/net7.0/ECommerce.Infrastructure.pdb
+/Users/aofurkan/Projects/ECommerceAPI/Infrastructure/ECommerce.Infrastructure/bin/Debug/net7.0/ECommerce.Application.dll
+/Users/aofurkan/Projects/ECommerceAPI/Infrastructure/ECommerce.Infrastructure/bin/Debug/net7.0/Ecommerce.Domain.dll
+/Users/aofurkan/Projects/ECommerceAPI/Infrastructure/ECommerce.Infrastructure/bin/Debug/net7.0/ECommerce.Application.pdb
+/Users/aofurkan/Projects/ECommerceAPI/Infrastructure/ECommerce.Infrastructure/bin/Debug/net7.0/Ecommerce.Domain.pdb
+/Users/aofurkan/Projects/ECommerceAPI/Infrastructure/ECommerce.Infrastructure/obj/Debug/net7.0/ECommerce.Infrastructure.csproj.AssemblyReference.cache
+/Users/aofurkan/Projects/ECommerceAPI/Infrastructure/ECommerce.Infrastructure/obj/Debug/net7.0/ECommerce.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aofurkan/Projects/ECommerceAPI/Infrastructure/ECommerce.Infrastructure/obj/Debug/net7.0/ECommerce.Infrastructure.AssemblyInfoInputs.cache
+/Users/aofurkan/Projects/ECommerceAPI/Infrastructure/ECommerce.Infrastructure/obj/Debug/net7.0/ECommerce.Infrastructure.AssemblyInfo.cs
+/Users/aofurkan/Projects/ECommerceAPI/Infrastructure/ECommerce.Infrastructure/obj/Debug/net7.0/ECommerce.Infrastructure.csproj.CoreCompileInputs.cache
+/Users/aofurkan/Projects/ECommerceAPI/Infrastructure/ECommerce.Infrastructure/obj/Debug/net7.0/ECommerce.Infrastructure.csproj.CopyComplete
+/Users/aofurkan/Projects/ECommerceAPI/Infrastructure/ECommerce.Infrastructure/obj/Debug/net7.0/ECommerce.Infrastructure.dll
+/Users/aofurkan/Projects/ECommerceAPI/Infrastructure/ECommerce.Infrastructure/obj/Debug/net7.0/refint/ECommerce.Infrastructure.dll
+/Users/aofurkan/Projects/ECommerceAPI/Infrastructure/ECommerce.Infrastructure/obj/Debug/net7.0/ECommerce.Infrastructure.pdb
+/Users/aofurkan/Projects/ECommerceAPI/Infrastructure/ECommerce.Infrastructure/obj/Debug/net7.0/ref/ECommerce.Infrastructure.dll

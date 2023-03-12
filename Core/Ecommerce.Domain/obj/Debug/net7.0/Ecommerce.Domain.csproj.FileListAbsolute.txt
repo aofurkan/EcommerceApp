@@ -1,0 +1,12 @@
+/Users/aofurkan/Projects/ECommerceAPI/Core/Ecommerce.Domain/bin/Debug/net7.0/Ecommerce.Domain.deps.json
+/Users/aofurkan/Projects/ECommerceAPI/Core/Ecommerce.Domain/bin/Debug/net7.0/Ecommerce.Domain.dll
+/Users/aofurkan/Projects/ECommerceAPI/Core/Ecommerce.Domain/bin/Debug/net7.0/Ecommerce.Domain.pdb
+/Users/aofurkan/Projects/ECommerceAPI/Core/Ecommerce.Domain/obj/Debug/net7.0/Ecommerce.Domain.csproj.AssemblyReference.cache
+/Users/aofurkan/Projects/ECommerceAPI/Core/Ecommerce.Domain/obj/Debug/net7.0/Ecommerce.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aofurkan/Projects/ECommerceAPI/Core/Ecommerce.Domain/obj/Debug/net7.0/Ecommerce.Domain.AssemblyInfoInputs.cache
+/Users/aofurkan/Projects/ECommerceAPI/Core/Ecommerce.Domain/obj/Debug/net7.0/Ecommerce.Domain.AssemblyInfo.cs
+/Users/aofurkan/Projects/ECommerceAPI/Core/Ecommerce.Domain/obj/Debug/net7.0/Ecommerce.Domain.csproj.CoreCompileInputs.cache
+/Users/aofurkan/Projects/ECommerceAPI/Core/Ecommerce.Domain/obj/Debug/net7.0/Ecommerce.Domain.dll
+/Users/aofurkan/Projects/ECommerceAPI/Core/Ecommerce.Domain/obj/Debug/net7.0/refint/Ecommerce.Domain.dll
+/Users/aofurkan/Projects/ECommerceAPI/Core/Ecommerce.Domain/obj/Debug/net7.0/Ecommerce.Domain.pdb
+/Users/aofurkan/Projects/ECommerceAPI/Core/Ecommerce.Domain/obj/Debug/net7.0/ref/Ecommerce.Domain.dll

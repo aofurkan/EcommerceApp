@@ -1,0 +1,108 @@
+{
+  "version": 3,
+  "targets": {
+    "net7.0": {
+      "ECommerce.Application/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "Ecommerce.Domain": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/ECommerce.Application.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ECommerce.Application.dll": {}
+        }
+      },
+      "Ecommerce.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/Ecommerce.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Ecommerce.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ECommerce.Application/1.0.0": {
+      "type": "project",
+      "path": "../../Core/ECommerce.Application/ECommerce.Application.csproj",
+      "msbuildProject": "../../Core/ECommerce.Application/ECommerce.Application.csproj"
+    },
+    "Ecommerce.Domain/1.0.0": {
+      "type": "project",
+      "path": "../../Core/Ecommerce.Domain/Ecommerce.Domain.csproj",
+      "msbuildProject": "../../Core/Ecommerce.Domain/Ecommerce.Domain.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net7.0": [
+      "ECommerce.Application >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "/Users/aofurkan/.nuget/packages/": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/Users/aofurkan/Projects/ECommerceAPI/Infrastructure/ECommerce.Infrastructure/ECommerce.Infrastructure.csproj",
+      "projectName": "ECommerce.Infrastructure",
+      "projectPath": "/Users/aofurkan/Projects/ECommerceAPI/Infrastructure/ECommerce.Infrastructure/ECommerce.Infrastructure.csproj",
+      "packagesPath": "/Users/aofurkan/.nuget/packages/",
+      "outputPath": "/Users/aofurkan/Projects/ECommerceAPI/Infrastructure/ECommerce.Infrastructure/obj/",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "/Users/aofurkan/.nuget/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net7.0"
+      ],
+      "sources": {
+        "/usr/local/share/dotnet/library-packs": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "projectReferences": {
+            "/Users/aofurkan/Projects/ECommerceAPI/Core/ECommerce.Application/ECommerce.Application.csproj": {
+              "projectPath": "/Users/aofurkan/Projects/ECommerceAPI/Core/ECommerce.Application/ECommerce.Application.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net7.0": {
+        "targetAlias": "net7.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.201/RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

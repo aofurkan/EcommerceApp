@@ -1,0 +1,17 @@
+/Users/aofurkan/Projects/ECommerceAPI/Infrastructure/ECommerce.Persistence/bin/Debug/net7.0/ECommerce.Persistence.deps.json
+/Users/aofurkan/Projects/ECommerceAPI/Infrastructure/ECommerce.Persistence/bin/Debug/net7.0/ECommerce.Persistence.dll
+/Users/aofurkan/Projects/ECommerceAPI/Infrastructure/ECommerce.Persistence/bin/Debug/net7.0/ECommerce.Persistence.pdb
+/Users/aofurkan/Projects/ECommerceAPI/Infrastructure/ECommerce.Persistence/bin/Debug/net7.0/ECommerce.Application.dll
+/Users/aofurkan/Projects/ECommerceAPI/Infrastructure/ECommerce.Persistence/bin/Debug/net7.0/Ecommerce.Domain.dll
+/Users/aofurkan/Projects/ECommerceAPI/Infrastructure/ECommerce.Persistence/bin/Debug/net7.0/ECommerce.Application.pdb
+/Users/aofurkan/Projects/ECommerceAPI/Infrastructure/ECommerce.Persistence/bin/Debug/net7.0/Ecommerce.Domain.pdb
+/Users/aofurkan/Projects/ECommerceAPI/Infrastructure/ECommerce.Persistence/obj/Debug/net7.0/ECommerce.Persistence.csproj.AssemblyReference.cache
+/Users/aofurkan/Projects/ECommerceAPI/Infrastructure/ECommerce.Persistence/obj/Debug/net7.0/ECommerce.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aofurkan/Projects/ECommerceAPI/Infrastructure/ECommerce.Persistence/obj/Debug/net7.0/ECommerce.Persistence.AssemblyInfoInputs.cache
+/Users/aofurkan/Projects/ECommerceAPI/Infrastructure/ECommerce.Persistence/obj/Debug/net7.0/ECommerce.Persistence.AssemblyInfo.cs
+/Users/aofurkan/Projects/ECommerceAPI/Infrastructure/ECommerce.Persistence/obj/Debug/net7.0/ECommerce.Persistence.csproj.CoreCompileInputs.cache
+/Users/aofurkan/Projects/ECommerceAPI/Infrastructure/ECommerce.Persistence/obj/Debug/net7.0/ECommerce.Persistence.csproj.CopyComplete
+/Users/aofurkan/Projects/ECommerceAPI/Infrastructure/ECommerce.Persistence/obj/Debug/net7.0/ECommerce.Persistence.dll
+/Users/aofurkan/Projects/ECommerceAPI/Infrastructure/ECommerce.Persistence/obj/Debug/net7.0/refint/ECommerce.Persistence.dll
+/Users/aofurkan/Projects/ECommerceAPI/Infrastructure/ECommerce.Persistence/obj/Debug/net7.0/ECommerce.Persistence.pdb
+/Users/aofurkan/Projects/ECommerceAPI/Infrastructure/ECommerce.Persistence/obj/Debug/net7.0/ref/ECommerce.Persistence.dll
